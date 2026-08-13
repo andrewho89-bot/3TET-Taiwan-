@@ -1,0 +1,6 @@
+{
+  "name": "3TGDS Benefit Mall - Epicurean Reserve",
+  "description": "Premium Japanese gourmet experiences, paper vouchers, dining reservations, and curated culinary deals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
